@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the ICMAT 2025 Conference Site.
 
-## Table of Contents
+## Table of Content
 
 - [Introduction](#introduction)
 - [Installation](#installation)
